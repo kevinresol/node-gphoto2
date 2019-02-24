@@ -15,7 +15,7 @@
   },
   "os": [
     "darwin",
-    "linux"
+    "linux","win32"
   ],
   "main": "index.js",
   "dependencies": {
